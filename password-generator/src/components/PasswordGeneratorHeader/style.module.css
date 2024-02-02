@@ -1,0 +1,14 @@
+.root {
+    display: flex;
+    justify-content: space-between;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.icon {
+    height: 20px;
+    width: 20px;
+}
